@@ -153,26 +153,34 @@ footer{
 }
 
 .sousuo_r{
-	width: 200px;
+	width: 270px;
 	height: 100px;
 	float: left;
 }
 
-.sousuo_r_r{
-	width: 70px;
-	height: 100px;
-	float: left;
-}
-
-.sousuo_r_r img{
+.sousuo_r img{
 	margin-left:10px;
 	margin-top: 30px;
 	width: 50px;
 }
 
-.sousuo_r_r img:hover{
+.sousuo_r img:hover{
 	transform:scale(1.2);
 }
+
+.sousuo_r_m{
+	width: 70px;
+	height: 100px;
+	float:right;
+}
+
+
+.sousuo_r_r{
+	width: 70px;
+	height: 100px;
+	float:right;
+}
+
 
 /*--------导航-------*/
 
